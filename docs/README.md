@@ -1,53 +1,17 @@
----
-sidebarDepth: 2
----
-# Hello MingFei
+# 每天进步一点点
 
-## Hello MingFei
-### Hello MingFei
-
-
-# Hello MingFei
-
-
-
-# Hello MingFei
-
-
-
-# Hello MingFei
-
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-
-:tada: :100:
-
-::: tip
-这是一个提示
+::: tip 子曰
+君子不器
 :::
 
+博客涉及的方面
 
-::: details 点击查看代码
-```js
-console.log('你好，VuePress！')
-```
-:::
+- js前端基础
+- leetcode简单部分算法题
+- 前端常用框架用法和原理
+- 计算机科学知识
 
-``` html
-<ul>
-  <li
-    v-for="todo in todos"
-    :key="todo.id"
-  >
-    {{ todo.text }}
-  </li>
-</ul>
-```
 
-[[toc]]
+## 写博客的原因
+
+锻炼自己的整理总结能力，对一知半解的东西，让自己能尽量讲的明白，也给团队内的小伙伴，快速上手业务，也给自己查缺不漏的机会，记录自己学习（折腾）的历程。
